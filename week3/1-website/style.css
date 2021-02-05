@@ -1,1 +1,53 @@
 /*  Add your styling here */
+body{
+    font-family: Georgia, Times, serif;
+    color: #333;
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    margin: 0%;
+}
+p{
+    margin-bottom: 1.15rem;
+    border: 1.5rem solid antiquewhite;
+}
+h1{
+    line-height: 1.3rem;
+    font-size: 1.8rem;
+    
+}
+#pier{
+    border:1.5rem solid transparent;
+    justify-content: space-around;
+    padding: 10px;
+    display: flex;
+    background: cadetblue;
+}
+.container{
+    width: 85%;
+    max-width: 850px;
+    margin: 0% auto;
+
+
+}
+
+.header{
+   background: cadetblue;
+}
+.logo-nav-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+.buton{
+    padding-top: 20%;
+   
+}
+.tefo{
+   padding-right: 60%;
+    
+}
+{
+   
+    
+}
+
