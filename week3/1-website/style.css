@@ -33,6 +33,12 @@ h1{
 .header{
    background: cadetblue;
 }
+.header a{
+    color: white;
+    text-decoration: none;
+ }
+
+
 .logo-nav-container{
     display: flex;
     justify-content: space-between;
@@ -40,6 +46,7 @@ h1{
 }
 .buton{
     padding-top: 20%;
+     width: 0px;
    
 }
 .tefo{
