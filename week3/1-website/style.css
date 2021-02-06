@@ -22,6 +22,13 @@ h1{
     display: flex;
     background: cadetblue;
 }
+
+#pier button{
+    background: black;
+    color: cornsilk;
+}
+
+
 .container{
     width: 85%;
     max-width: 850px;
@@ -126,4 +133,11 @@ padding-top: 8rem;
     display:flex;
     justify-content: space-between;
     padding: 10%;
+}
+#tef-nav{
+    border-bottom: 2.5rem solid black;
+}
+ #pier #colo{
+   background: black;
+   color: black;
 }
