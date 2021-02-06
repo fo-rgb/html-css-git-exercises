@@ -61,6 +61,19 @@ h1{
     
 }
 
+#tit-nav h {
+float: left;
+margin-left: 8.5rem;
+background-color: darkslategrey;
+color: white; 
+margin-bottom: 1.8rem;
+border: 10px solid #333;  
+    
+}
+
+
+
+
 #list-nav{
 justify-content: space-around;
 background-color:whitesmoke;
@@ -92,4 +105,25 @@ font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
     font-size: 0.8rem;
     font-family: cursive;
     
+}
+.parafo{
+    float: left;
+    margin-right: 28rem;
+        
+}
+.image-carousel img {
+width:20.5rem;
+position: absolute;
+
+display: block;
+margin-left: 45rem;
+padding-top: 8rem;
+
+    
+    
+}
+.fotos-nav {
+    display:flex;
+    justify-content: space-between;
+    padding: 10%;
 }
