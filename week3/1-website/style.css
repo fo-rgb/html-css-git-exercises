@@ -8,7 +8,7 @@ body{
 }
 p{
     margin-bottom: 1.15rem;
-    border: 1.5rem solid antiquewhite;
+    border: 1.5rem solid white;
 }
 h1{
     line-height: 1.3rem;
@@ -39,6 +39,9 @@ h1{
 
 .header{
    background: cadetblue;
+  
+   margin-right: 3%;
+   margin-left: 1%;
 }
 .header a{
     color: white;
@@ -160,8 +163,9 @@ padding-top: 8rem;
      
      justify-content: space-around;
      margin-right: 1.5rem;
-
-     
-
+}
+u{
+    text-decoration: none;
+   margin-left: 35%;
 }
     
