@@ -53,12 +53,13 @@ h1{
 
 }
 .buton{
-    padding-top: 20%;
+    padding-top: 15%;
      width: 0px;
    
 }
 .tefo{
-   padding-right: 60%;
+   padding-right: 80%;
+   display: inline-block;
     
 }
 #tit-nav{
@@ -97,7 +98,7 @@ background-color:whitesmoke;
  display: inline-block;
  justify-content: space-between;
 }
-.navigation ul li a {
+.navigation ul li a  {
     display: block;
     padding: 0.5rem 5rem;
    }
@@ -141,3 +142,26 @@ padding-top: 8rem;
    background: black;
    color: black;
 }
+
+
+.cuardro{
+    display:flex;
+    justify-content: space-between;
+    padding: 3%;
+    width: 0.5rem;;
+    position: absolute;
+    top: 147%;
+    margin-left: 55%;
+
+    
+ }
+ 
+ #cuar {
+     
+     justify-content: space-around;
+     margin-right: 1.5rem;
+
+     
+
+}
+    
