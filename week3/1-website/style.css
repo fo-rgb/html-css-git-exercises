@@ -56,10 +56,18 @@ h1{
 
 }
 .buton{
-    padding-top: 15%;
+    padding-top: 4%;
      width: 0px;
-   
 }
+#but-nav{
+    background: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+
 .tefo{
    padding-right: 80%;
    display: inline-block;
@@ -72,9 +80,9 @@ h1{
     
 }
 
-#tit-nav h {
+#tit-nav h1 {
 float: left;
-margin-left: 8.5rem;
+margin-left: 5.5rem;
 background-color: darkslategrey;
 color: white; 
 margin-bottom: 1.8rem;
@@ -153,8 +161,8 @@ padding-top: 8rem;
     padding: 3%;
     width: 0.5rem;;
     position: absolute;
-    top: 147%;
-    margin-left: 55%;
+    top: 134%;
+    margin-left: 50%;
 
     
  }
@@ -167,5 +175,6 @@ padding-top: 8rem;
 u{
     text-decoration: none;
    margin-left: 35%;
+   color: tomato;
 }
     
